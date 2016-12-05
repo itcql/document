@@ -1,0 +1,2 @@
+# document
+Daily summary document
